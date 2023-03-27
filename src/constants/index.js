@@ -23,6 +23,14 @@ import {
     jobit,
     tripguide,
     threejs,
+    johnsoncontrols,
+    aws,
+    python,
+    java,
+    jenkins,
+    sql,
+    mysql,
+    restapi,
   } from "../assets";
   
   export const navLinks = [
@@ -42,11 +50,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Software Engineer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "DevOps Engineer",
       icon: mobile,
     },
     {
@@ -54,12 +62,20 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Full Stack Developer",
       icon: creator,
     },
   ];
   
   const technologies = [
+    {
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "Java",
+      icon: java,
+    },
     {
       name: "HTML 5",
       icon: html,
@@ -73,44 +89,44 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
     },
     {
       name: "Node JS",
       icon: nodejs,
     },
     {
+      name: "docker",
+      icon: docker,
+    },
+    {
+      name: "AWS",
+      icon: aws,
+    },
+    {
+      name: "Jenkins",
+      icon: jenkins,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
+    },
+    {
       name: "MongoDB",
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "SQL",
+      icon: sql,
     },
     {
       name: "git",
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
+      name: "REST API",
+      icon: restapi,
     },
   ];
   
@@ -118,7 +134,7 @@ import {
     {
       title: "Software Automation Engineer Co-op",
       company_name: "Johnson Controls",
-      icon: starbucks,
+      icon: johnsoncontrols,
       iconBg: "#383E56",
       date: "Sept 2021 - Sept 2022",
       points: [

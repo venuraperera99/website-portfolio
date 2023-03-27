@@ -20,10 +20,18 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import aws from "./tech/aws.png";
+import python from "./tech/python.png";
+import java from "./tech/java.png";
+import sql from "./tech/sql.png";
+import mysql from "./tech/mysql.png";
+import jenkins from "./tech/jenkins.png";
+import restapi from "./tech/api.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
+import johnsoncontrols from "./company/johnsoncontrols.jpg";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -59,4 +67,12 @@ export {
   carrent,
   jobit,
   tripguide,
+  johnsoncontrols,
+  aws,
+  python,
+  java,
+  jenkins,
+  sql,
+  mysql,
+  restapi,
 };

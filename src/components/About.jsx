@@ -43,16 +43,15 @@ const About = () => {
         <p className={`${styles.sectionSubText}`}>
           Introduction</p>
         <h2 className={`${styles.sectionHeadText}`}>
-          Overview.</h2>
+          About Me.</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
           I'm a skilled software developer with experience in Software
-          Engineering, DevOps, and Full Stack Development. I have an expertise
-          in cloud tech like AWS, Docker, Jenkins as well as Other tech such as Python,
-          Java, JavaScript and other Full Stack Developer tools. I'm a quick learner
+          Engineering, DevOps, and Full Stack Development. I love developing and designing
+          software, from simple applications to software with complex infrastructure. I'm a quick learner
           and have the ability to adapt to any work environment and learn the appropriate
           skills to exceed in any job position. I have collaborated with clients to create
           efficient, scalable, and user-friendly solutions that solve real-world problems. Feel 
