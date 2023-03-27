@@ -37,6 +37,8 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import paint from "./paintproj.png";
+import website from "./website.png";
 
 export {
   logo,
@@ -75,4 +77,6 @@ export {
   sql,
   mysql,
   restapi,
+  paint,
+  website,
 };
