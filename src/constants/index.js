@@ -116,57 +116,43 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Software Automation Engineer Co-op",
+      company_name: "Johnson Controls",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Sept 2021 - Sept 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Designed and deployed a scalable Dockerfile script that setups the build environment by installing the required libraries and files.",
+        "Changed the product builds infrastructure by the integration of AWS, Docker, and Jenkins together resulting in the product build time being improved by around 73%.",
+        "Optimized data transfer from the build output to external storage by 20% by using S3 bucket.",
+        "Developed script to automatically change GitHub repo settings and branches alongside their branch protection rules.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Full Stack Web Developer Co-op",
+      company_name: "Wyn City Ltd",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "May 2021 - Sept 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Utilized React and Nodejs to improve client website by redesigning it with a new theme and implement new features. like, chat widget, submenu, populating tables with data, and table functionality",
+        "Developed and updated routing for server-side API calls in the backend along with client side in the frontend.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Web Developer Co-op",
+      company_name: "23e2 Digital Marketing",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "May 2020 - Sept 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Improved and optimized existing code resulting in reducing lines by 50%",
+        "Implementation of new features included the use of Web Scrapers, Facebook API, Google Maps API, and other REST APIs",
+        "Developed multiple Python scripts to upload and send data to the main code via MySQL",
+        "Reduced page load times by 30% for 10+ pages in a clients website by developing and optimizing the front end and backend of web pages",
       ],
     },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    
   ];
   
   const testimonials = [
